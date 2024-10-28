@@ -1,0 +1,1 @@
+console.log("Thoughts & ideas from Quantwater Tech Investments");
